@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CheckDev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CheckDev.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
